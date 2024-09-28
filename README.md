@@ -2,6 +2,7 @@
 
 ## Descripcion
 Este repositorio alberga un proyecto desarrollado en Next.js 14  y se uso la libreria tailwind para estilos diseñado para ver noticias.
+[https://www.youtube.com/watch?v=J4IY90G3lLY&ab_channel=CindySanchez](https://www.youtube.com/watch?v=J4IY90G3lLY&ab_channel=CindySanchez)
 ## Requisitos
 - Node.js >= 20.10.0
 
